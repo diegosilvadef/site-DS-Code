@@ -1,0 +1,73 @@
+body{
+    background-color: black;
+    color: white;
+}
+
+#parte_sup{
+    background-color: rgba(245, 245, 245, 0.089);
+    padding-bottom: 50px;
+    margin-top: -25px;
+    background-image: url("programação.jpeg");
+    background-size: 100%;
+    
+}
+
+#DS_code{
+    font-size: 50px;
+    margin-left: -10px;
+}
+
+#links_sup{
+    font-size: 20px;
+    word-spacing: 25px;
+    color: white;
+}
+
+#conteiner-inf-cursos{
+    background-color: rgba(245, 245, 245, 0.089);
+    padding-bottom: 30px;
+    padding-top: 30px;
+}
+
+#img-curso1{
+    background-color:  rgba(245, 245, 245, 0.089);
+   
+}
+
+#img-curso2{
+    background-color:  rgba(245, 245, 245, 0.089);
+   
+}
+
+#img-curso3{
+    background-color:  rgba(245, 245, 245, 0.089);
+}
+
+#conteiner-cursos{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+#parte-inferior{
+    background-color:  rgba(245, 245, 245, 0.089);
+    margin-bottom: -10px;
+}
+
+#parte-inferior{
+    display: flex;
+    justify-content: center;
+
+}
+
+#informacoes-contato{
+    margin-left: -100px;
+}
+
+#links_plataforma{
+    margin-left: 150px;
+}
+
+.botoes{
+    border-radius: 8px;
+}
