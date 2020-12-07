@@ -4,12 +4,16 @@ body{
 }
 
 #parte_sup{
-    background-color: rgba(245, 245, 245, 0.089);
+    /*background-color: rgba(245, 245, 245, 0.089);*/
     padding-bottom: 50px;
     margin-top: -25px;
-    background-image: url("programação.jpeg");
+    /*background-image: url("programação.jpeg");*/
     background-size: 100%;
     
+}
+
+#logo{
+    height: 400px;
 }
 
 #DS_code{
@@ -75,4 +79,17 @@ body{
 .link-color{
     color: white;
     text-decoration: none;
+    margin-top: 100px;
+}
+
+#fieldset-link-color{
+    margin-left: -10px;
+    margin-right: -10px;
+    text-align: center;
+}
+
+.link-color-inf{
+    color: white;
+    text-decoration: none;
+    
 }
