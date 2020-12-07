@@ -9,11 +9,11 @@ body{
     margin-top: -25px;
     /*background-image: url("programação.jpeg");*/
     background-size: 100%;
-    
 }
 
 #logo{
-    height: 400px;
+    height: 300px;
+    margin-top: -70px;
 }
 
 #DS_code{
@@ -25,6 +25,8 @@ body{
     font-size: 20px;
     word-spacing: 25px;
     color: white;
+    margin-top: -160px;
+    margin-left: 1200px;
 }
 
 #conteiner-inf-cursos{
@@ -85,7 +87,6 @@ body{
 #fieldset-link-color{
     margin-left: -10px;
     margin-right: -10px;
-    text-align: center;
 }
 
 .link-color-inf{
