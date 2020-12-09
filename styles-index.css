@@ -54,12 +54,8 @@ body{
 #parte-inferior{
     background-color:  rgba(245, 245, 245, 0.089);
     margin-bottom: -10px;
-}
-
-#parte-inferior{
     display: flex;
     justify-content: center;
-
 }
 
 #informacoes-contato{
