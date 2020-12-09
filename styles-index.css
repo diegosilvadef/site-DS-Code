@@ -3,17 +3,22 @@ body{
     color: white;
 }
 
+#fieldset-sup{
+    padding-bottom: 60px;
+    margin-left: -10px;
+    margin-right: -10px;
+}
+
 #parte_sup{
-    /*background-color: rgba(245, 245, 245, 0.089);*/
+    background-color: rgba(100, 91, 91, 0.089);
     padding-bottom: 50px;
     margin-top: -25px;
-    /*background-image: url("programação.jpeg");*/
     background-size: 100%;
 }
 
 #logo{
     height: 300px;
-    margin-top: -70px;
+    margin-top: -90px;
 }
 
 #DS_code{
@@ -35,18 +40,9 @@ body{
     padding-top: 30px;
 }
 
-#img-curso1{
+#img-curso{
     background-color:  rgba(245, 245, 245, 0.089);
-   
-}
-
-#img-curso2{
-    background-color:  rgba(245, 245, 245, 0.089);
-   
-}
-
-#img-curso3{
-    background-color:  rgba(245, 245, 245, 0.089);
+    border-radius: 1px;
 }
 
 #conteiner-cursos{
